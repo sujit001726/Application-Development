@@ -1,0 +1,14 @@
+C:\Users\LOQ\Downloads\Application Dev\Application Development\Workshop\bin\Debug\net10.0\Workshop.exe
+C:\Users\LOQ\Downloads\Application Dev\Application Development\Workshop\bin\Debug\net10.0\Workshop.deps.json
+C:\Users\LOQ\Downloads\Application Dev\Application Development\Workshop\bin\Debug\net10.0\Workshop.runtimeconfig.json
+C:\Users\LOQ\Downloads\Application Dev\Application Development\Workshop\bin\Debug\net10.0\Workshop.dll
+C:\Users\LOQ\Downloads\Application Dev\Application Development\Workshop\bin\Debug\net10.0\Workshop.pdb
+C:\Users\LOQ\Downloads\Application Dev\Application Development\Workshop\obj\Debug\net10.0\Workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\Downloads\Application Dev\Application Development\Workshop\obj\Debug\net10.0\Workshop.AssemblyInfoInputs.cache
+C:\Users\LOQ\Downloads\Application Dev\Application Development\Workshop\obj\Debug\net10.0\Workshop.AssemblyInfo.cs
+C:\Users\LOQ\Downloads\Application Dev\Application Development\Workshop\obj\Debug\net10.0\Workshop.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Downloads\Application Dev\Application Development\Workshop\obj\Debug\net10.0\Workshop.dll
+C:\Users\LOQ\Downloads\Application Dev\Application Development\Workshop\obj\Debug\net10.0\refint\Workshop.dll
+C:\Users\LOQ\Downloads\Application Dev\Application Development\Workshop\obj\Debug\net10.0\Workshop.pdb
+C:\Users\LOQ\Downloads\Application Dev\Application Development\Workshop\obj\Debug\net10.0\Workshop.genruntimeconfig.cache
+C:\Users\LOQ\Downloads\Application Dev\Application Development\Workshop\obj\Debug\net10.0\ref\Workshop.dll
